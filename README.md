@@ -12,8 +12,8 @@ My name is Hussein Saab, I am from Toronto, Canada and I am a second year Comput
 
 ### Contact Information
 
-- Find me through my email! [husseinsaab14@gmail.com](mailto:husseinsaab14@gmail.com)
-- Connect with me on LinkedIn! [Hussein Saab](https://www.linkedin.com/in/huss-saab/)
+- 📨 Find me through my email! [husseinsaab14@gmail.com](mailto:husseinsaab14@gmail.com)
+- 📇 Connect with me on LinkedIn! [Hussein Saab](https://www.linkedin.com/in/huss-saab/)
 
 ### Languages and Frameworks/Tools
 
