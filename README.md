@@ -45,5 +45,5 @@ My name is Hussein Saab, I am from Toronto, Canada and I am a second year Comput
 <code><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /></code>
 
 
-![GitHub stats](https://husaab.vercel.app/api?username=husaab&count_private=true&hide=prs&include_all_commits=true&theme=moltack)
-![Top Languages](https://husaab.vercel.app/api/top-langs/?username=husaab&layout=compact&theme=moltack&hide=jupyter%20notebook)
+![GitHub stats](https://github-readme-stats-husaabs-projects.vercel.app/api?username=husaab&count_private=true&hide=prs&include_all_commits=true&theme=moltack)
+![Top Languages](https://github-readme-stats-husaabs-projects.vercel.app/api/top-langs/?username=husaab&layout=compact&theme=moltack&hide=jupyter%20notebook)
